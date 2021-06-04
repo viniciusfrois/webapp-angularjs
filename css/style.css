@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Nunito', sans-serif;
+}
+
+body {background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/bg-img.jpg);}
+
+.jumbotron {width: 600px;text-align: center;margin-left: auto;margin-right: auto;margin-top: 100px;}
+
+.table {margin-top: 50px;}
+
+.form-control {margin-bottom: 5px;}
+
+.btn {margin-top: 20px;}
+
+.alert {margin-top: 15px;}
+
+.alert2 {padding: 15px;}
+
+.rodape{color: #fff;background-color: #303030; text-align: center; border-top: 1px solid #333; bottom:0;left: 0;height: 25px;position: fixed;width:100%;}
